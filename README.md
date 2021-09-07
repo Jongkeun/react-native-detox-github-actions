@@ -28,3 +28,4 @@ Config in package.json:
 
 Little bit more detailed post on dev.to about the workflows: https://dev.to/edvinasbartkus/running-react-native-detox-tests-for-ios-and-android-on-github-actions-2ekn
 
+test
